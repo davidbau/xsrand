@@ -16,7 +16,7 @@ Included algorithms
 -------------------
 
 | algorithm | time | period            | BigCrush failures        |
-+-----------+------+-------------------+--------------------------+
+| --------- | ---- | ----------------- | ------------------------ |
 | xor128    | 1.4x | 2<sup>128</sup>-1 | MatrixRank, LinearComp   |
 | xsadd     | 1.8x | 2<sup>128</sup>-1 | (reversed) LinearComp, MatrixRank, MaxOft, Permuation |
 | xorwow    | 1.9x | 2<sup>192</sup>-2<sup>32</sup> | CollisionOver, SimpPoker, and LinearComp. |
